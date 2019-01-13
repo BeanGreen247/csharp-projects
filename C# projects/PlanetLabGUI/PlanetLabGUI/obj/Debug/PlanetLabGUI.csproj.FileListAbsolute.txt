@@ -1,0 +1,9 @@
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\bin\Debug\PlanetLabGUI.exe.config
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\bin\Debug\PlanetLabGUI.exe
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\bin\Debug\PlanetLabGUI.pdb
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.Form1.resources
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.Properties.Resources.resources
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.csproj.GenerateResource.Cache
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.exe
+D:\Users\P_T4A\Desktop\Projects\PlanetLabGUI\PlanetLabGUI\obj\Debug\PlanetLabGUI.pdb
