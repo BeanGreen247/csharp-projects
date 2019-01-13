@@ -1,0 +1,9 @@
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\bin\Debug\testneconecot4a.exe.config
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\bin\Debug\testneconecot4a.exe
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\bin\Debug\testneconecot4a.pdb
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.Form1.resources
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.Properties.Resources.resources
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.csproj.GenerateResource.Cache
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.exe
+D:\Users\P_T4A\Desktop\Projects\testneconecot4a\testneconecot4a\obj\Debug\testneconecot4a.pdb

@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\TestOOP1a\TestOOP1a\bin\Debug\TestOOP1a.exe.config
+D:\Users\P_T4A\Desktop\Projects\TestOOP1a\TestOOP1a\bin\Debug\TestOOP1a.exe
+D:\Users\P_T4A\Desktop\Projects\TestOOP1a\TestOOP1a\bin\Debug\TestOOP1a.pdb
+D:\Users\P_T4A\Desktop\Projects\TestOOP1a\TestOOP1a\obj\Debug\TestOOP1a.exe
+D:\Users\P_T4A\Desktop\Projects\TestOOP1a\TestOOP1a\obj\Debug\TestOOP1a.pdb

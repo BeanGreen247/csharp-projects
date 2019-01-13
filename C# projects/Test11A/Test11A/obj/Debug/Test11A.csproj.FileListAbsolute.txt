@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\bin\Debug\Test11A.exe.config
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\bin\Debug\Test11A.exe
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\bin\Debug\Test11A.pdb
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\obj\Debug\Test11A.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\obj\Debug\Test11A.exe
+D:\Users\P_T4A\Desktop\Projects\Test11A\Test11A\obj\Debug\Test11A.pdb

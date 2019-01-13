@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\Test11\Test11\bin\Debug\Test11.exe.config
+D:\Users\P_T4A\Desktop\Projects\Test11\Test11\bin\Debug\Test11.exe
+D:\Users\P_T4A\Desktop\Projects\Test11\Test11\bin\Debug\Test11.pdb
+D:\Users\P_T4A\Desktop\Projects\Test11\Test11\obj\Debug\Test11.exe
+D:\Users\P_T4A\Desktop\Projects\Test11\Test11\obj\Debug\Test11.pdb
