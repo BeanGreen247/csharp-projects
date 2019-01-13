@@ -1,9 +1,0 @@
-E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.exe.config
-E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.exe
-E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.pdb
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.csprojResolveAssemblyReference.cache
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.Form1.resources
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.Properties.Resources.resources
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.csproj.GenerateResource.Cache
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.exe
-E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.pdb
