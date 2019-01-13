@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\testT4A\testT4A\bin\Debug\testT4A.exe.config
+D:\Users\P_T4A\Desktop\Projects\testT4A\testT4A\bin\Debug\testT4A.exe
+D:\Users\P_T4A\Desktop\Projects\testT4A\testT4A\bin\Debug\testT4A.pdb
+D:\Users\P_T4A\Desktop\Projects\testT4A\testT4A\obj\Debug\testT4A.exe
+D:\Users\P_T4A\Desktop\Projects\testT4A\testT4A\obj\Debug\testT4A.pdb

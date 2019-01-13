@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\bin\Debug\TRPG_Engine.exe.config
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\bin\Debug\TRPG_Engine.exe
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\bin\Debug\TRPG_Engine.pdb
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\obj\Debug\TRPG_Engine.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\obj\Debug\TRPG_Engine.exe
+D:\Users\P_T4A\Desktop\Projects\TRPG_Engine\TRPG_Engine\obj\Debug\TRPG_Engine.pdb
