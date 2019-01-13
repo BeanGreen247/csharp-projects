@@ -1,0 +1,8 @@
+E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.exe.config
+E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.exe
+E:\PRG\LearnLinux\LearnLinux\bin\Debug\LearnLinux.pdb
+E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.Menu.resources
+E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.Properties.Resources.resources
+E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinuxPROJEKT.csproj.GenerateResource.Cache
+E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.exe
+E:\PRG\LearnLinux\LearnLinux\obj\Debug\LearnLinux.pdb
