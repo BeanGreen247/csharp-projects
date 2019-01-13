@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\bin\Debug\Testpodprogramy2018.exe.config
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\bin\Debug\Testpodprogramy2018.exe
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\bin\Debug\Testpodprogramy2018.pdb
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\obj\Debug\Testpodprogramy2018.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\obj\Debug\Testpodprogramy2018.exe
+D:\Users\P_T4A\Desktop\Projects\Testpodprogramy2018\Testpodprogramy2018\obj\Debug\Testpodprogramy2018.pdb

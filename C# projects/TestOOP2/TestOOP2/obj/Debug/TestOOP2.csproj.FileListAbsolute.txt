@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\bin\Debug\TestOOP2.exe.config
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\bin\Debug\TestOOP2.exe
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\bin\Debug\TestOOP2.pdb
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\obj\Debug\TestOOP2.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\obj\Debug\TestOOP2.exe
+D:\Users\P_T4A\Desktop\Projects\TestOOP2\TestOOP2\obj\Debug\TestOOP2.pdb

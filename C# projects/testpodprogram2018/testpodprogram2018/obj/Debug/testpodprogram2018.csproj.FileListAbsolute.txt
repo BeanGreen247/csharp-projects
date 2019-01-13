@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\testpodprogram2018\testpodprogram2018\bin\Debug\testpodprogram2018.exe.config
+D:\Users\P_T4A\Desktop\Projects\testpodprogram2018\testpodprogram2018\bin\Debug\testpodprogram2018.exe
+D:\Users\P_T4A\Desktop\Projects\testpodprogram2018\testpodprogram2018\bin\Debug\testpodprogram2018.pdb
+D:\Users\P_T4A\Desktop\Projects\testpodprogram2018\testpodprogram2018\obj\Debug\testpodprogram2018.exe
+D:\Users\P_T4A\Desktop\Projects\testpodprogram2018\testpodprogram2018\obj\Debug\testpodprogram2018.pdb
