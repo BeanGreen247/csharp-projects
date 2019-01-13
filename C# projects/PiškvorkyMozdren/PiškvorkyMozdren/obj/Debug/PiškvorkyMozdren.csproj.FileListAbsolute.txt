@@ -1,0 +1,10 @@
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\bin\Debug\PiškvorkyMozdren.exe.config
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\bin\Debug\PiškvorkyMozdren.exe
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\bin\Debug\PiškvorkyMozdren.pdb
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren.Menu.resources
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren.Properties.Resources.resources
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren.csproj.GenerateResource.Cache
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren.exe
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren.pdb
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren._3x3.resources
+D:\Users\P_T4A\Desktop\Projects\PiškvorkyMozdren\PiškvorkyMozdren\obj\Debug\PiškvorkyMozdren._6x6.resources
