@@ -1,0 +1,9 @@
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\bin\Debug\Mandelbrot_set.exe.config
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\bin\Debug\Mandelbrot_set.exe
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\bin\Debug\Mandelbrot_set.pdb
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.csprojAssemblyReference.cache
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.Properties.Resources.resources
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.csproj.GenerateResource.cache
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.csproj.CoreCompileInputs.cache
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.exe
+C:\Users\beangreen247\source\repos\Mandelbrot_set\Mandelbrot_set\obj\Debug\Mandelbrot_set.pdb
