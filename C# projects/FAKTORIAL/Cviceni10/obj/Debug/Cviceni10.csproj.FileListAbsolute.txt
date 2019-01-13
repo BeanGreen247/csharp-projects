@@ -1,0 +1,11 @@
+D:\Users\P_T4A\Desktop\Projects\Cviceni10\Cviceni10\bin\Debug\Cviceni10.exe.config
+D:\Users\P_T4A\Desktop\Projects\Cviceni10\Cviceni10\bin\Debug\Cviceni10.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni10\Cviceni10\bin\Debug\Cviceni10.pdb
+D:\Users\P_T4A\Desktop\Projects\Cviceni10\Cviceni10\obj\Debug\Cviceni10.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni10\Cviceni10\obj\Debug\Cviceni10.pdb
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\bin\Debug\Cviceni10.exe.config
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\obj\Debug\Cviceni10.exe
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\obj\Debug\Cviceni10.pdb
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\bin\Debug\Cviceni10.exe
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\bin\Debug\Cviceni10.pdb
+D:\Users\P_T4A\Desktop\Projects\FAKTORIAL\Cviceni10\obj\Debug\Cviceni10.csprojResolveAssemblyReference.cache

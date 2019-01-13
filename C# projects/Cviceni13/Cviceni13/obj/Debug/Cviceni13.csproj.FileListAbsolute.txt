@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\bin\Debug\Cviceni13.exe.config
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\obj\Debug\Cviceni13.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\bin\Debug\Cviceni13.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\bin\Debug\Cviceni13.pdb
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\obj\Debug\Cviceni13.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni13\Cviceni13\obj\Debug\Cviceni13.pdb

@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\Cviceni10_1\Cviceni10_1\bin\Debug\Cviceni10_1.exe.config
+D:\Users\P_T4A\Desktop\Projects\Cviceni10_1\Cviceni10_1\bin\Debug\Cviceni10_1.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni10_1\Cviceni10_1\bin\Debug\Cviceni10_1.pdb
+D:\Users\P_T4A\Desktop\Projects\Cviceni10_1\Cviceni10_1\obj\Debug\Cviceni10_1.exe
+D:\Users\P_T4A\Desktop\Projects\Cviceni10_1\Cviceni10_1\obj\Debug\Cviceni10_1.pdb

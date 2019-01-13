@@ -1,0 +1,9 @@
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\bin\Debug\KEKERU.exe.config
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\bin\Debug\KEKERU.exe
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\bin\Debug\KEKERU.pdb
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\obj\Debug\KEKERU.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\obj\Debug\KEKERU.exe
+D:\Users\P_T4A\Desktop\Projects\KEKERU\KEKERU\obj\Debug\KEKERU.pdb
+E:\PRG\KEKERU\KEKERU\bin\Debug\KEKERU.exe.config
+E:\PRG\KEKERU\KEKERU\obj\Debug\KEKERU.exe
+E:\PRG\KEKERU\KEKERU\obj\Debug\KEKERU.pdb
