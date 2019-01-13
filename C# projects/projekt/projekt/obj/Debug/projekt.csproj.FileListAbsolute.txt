@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\projekt\projekt\bin\Debug\projekt.exe.config
+D:\Users\P_T4A\Desktop\Projects\projekt\projekt\bin\Debug\projekt.exe
+D:\Users\P_T4A\Desktop\Projects\projekt\projekt\bin\Debug\projekt.pdb
+D:\Users\P_T4A\Desktop\Projects\projekt\projekt\obj\Debug\projekt.exe
+D:\Users\P_T4A\Desktop\Projects\projekt\projekt\obj\Debug\projekt.pdb

@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\projektmozdren\projektmozdren\bin\Debug\projektmozdren.exe.config
+D:\Users\P_T4A\Desktop\Projects\projektmozdren\projektmozdren\bin\Debug\projektmozdren.exe
+D:\Users\P_T4A\Desktop\Projects\projektmozdren\projektmozdren\bin\Debug\projektmozdren.pdb
+D:\Users\P_T4A\Desktop\Projects\projektmozdren\projektmozdren\obj\Debug\projektmozdren.exe
+D:\Users\P_T4A\Desktop\Projects\projektmozdren\projektmozdren\obj\Debug\projektmozdren.pdb

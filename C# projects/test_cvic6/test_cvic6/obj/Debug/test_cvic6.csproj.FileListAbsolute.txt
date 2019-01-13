@@ -1,0 +1,8 @@
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\bin\Debug\test_cvic6.exe.config
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\bin\Debug\test_cvic6.exe
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\bin\Debug\test_cvic6.pdb
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\obj\Debug\test_cvic6.Properties.Resources.resources
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\obj\Debug\test_cvic6.csproj.GenerateResource.Cache
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\obj\Debug\test_cvic6.exe
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\obj\Debug\test_cvic6.pdb
+D:\Users\P_T4A\Desktop\Projects\test_cvic6\test_cvic6\obj\Debug\test_cvic6.Form1.resources
