@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\zlomek\zlomek\bin\Debug\zlomek.exe.config
+D:\Users\P_T4A\Desktop\Projects\zlomek\zlomek\bin\Debug\zlomek.exe
+D:\Users\P_T4A\Desktop\Projects\zlomek\zlomek\bin\Debug\zlomek.pdb
+D:\Users\P_T4A\Desktop\Projects\zlomek\zlomek\obj\Debug\zlomek.exe
+D:\Users\P_T4A\Desktop\Projects\zlomek\zlomek\obj\Debug\zlomek.pdb
