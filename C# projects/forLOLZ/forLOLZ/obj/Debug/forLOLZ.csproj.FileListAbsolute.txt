@@ -1,0 +1,9 @@
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\bin\Debug\forLOLZ.exe.config
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\bin\Debug\forLOLZ.exe
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\bin\Debug\forLOLZ.pdb
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.csprojAssemblyReference.cache
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.Properties.Resources.resources
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.csproj.GenerateResource.cache
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.csproj.CoreCompileInputs.cache
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.exe
+C:\Users\beangreen247\source\repos\forLOLZ\forLOLZ\obj\Debug\forLOLZ.pdb

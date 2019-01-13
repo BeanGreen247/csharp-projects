@@ -1,0 +1,6 @@
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\bin\Debug\Keygen.exe.config
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\bin\Debug\Keygen.exe
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\bin\Debug\Keygen.pdb
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\obj\Debug\Keygen.csprojResolveAssemblyReference.cache
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\obj\Debug\Keygen.exe
+D:\Users\P_T4A\Desktop\Projects\Keygen\Keygen\obj\Debug\Keygen.pdb

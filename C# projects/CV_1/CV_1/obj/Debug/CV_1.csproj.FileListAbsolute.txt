@@ -1,0 +1,5 @@
+D:\Users\P_T4A\Desktop\Projects\CV_1\CV_1\bin\Debug\CV_1.exe.config
+D:\Users\P_T4A\Desktop\Projects\CV_1\CV_1\bin\Debug\CV_1.exe
+D:\Users\P_T4A\Desktop\Projects\CV_1\CV_1\bin\Debug\CV_1.pdb
+D:\Users\P_T4A\Desktop\Projects\CV_1\CV_1\obj\Debug\CV_1.exe
+D:\Users\P_T4A\Desktop\Projects\CV_1\CV_1\obj\Debug\CV_1.pdb
