@@ -16,7 +16,15 @@ Like this one.
      alt="Meme we want converted"/>
 I recomment to pick the white color scheme like shown, for better results.
 
-Step one open. You are asked to enter the link to the image.
+**Step one.** Open. You are asked to enter the link to the image.
 <img src="Images/ita_app1.png"
      alt="App openned."/>
 
+**Step two.** Insert the link to the image.
+<img src="Images/ita_app2.png"
+     alt="Inserting lik to Image."/>
+     
+**Step three** Profit
+<img src="Images/ita_app3.png"
+     alt="Inserting lik to Image."/>
+     
