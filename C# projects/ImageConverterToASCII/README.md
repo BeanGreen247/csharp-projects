@@ -14,4 +14,9 @@ Like this one.
 
 <img src="https://cdn.netzpolitik.org/wp-upload/one-does-not-meme.jpg"
      alt="Meme we want converted"/>
+I recomment to pick the white color scheme like shown, for better results.
+
+Step one open. You are asked to enter the link to the image.
+<img src="Images/ita_app1.png"
+     alt="App openned."/>
 
