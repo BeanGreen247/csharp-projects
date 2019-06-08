@@ -1,0 +1,7 @@
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\bin\Debug\ImageConverterToASCII.exe.config
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\bin\Debug\ImageConverterToASCII.exe
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\bin\Debug\ImageConverterToASCII.pdb
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\obj\Debug\ImageConverterToASCII.csprojAssemblyReference.cache
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\obj\Debug\ImageConverterToASCII.csproj.CoreCompileInputs.cache
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\obj\Debug\ImageConverterToASCII.exe
+C:\Users\BeanGreen247\source\repos\ImageConverterToASCII\ImageConverterToASCII\obj\Debug\ImageConverterToASCII.pdb
