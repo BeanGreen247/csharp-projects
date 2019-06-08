@@ -15,7 +15,7 @@ namespace ImageConverterToASCII
         private static string[] _asciiChars = { "#", "#", "@", "%", "=", "+", "*", ":", "-", ".", " " };
         public static void Main()
         {
-            Console.Write("Type url of image you wan to convertto ascii: ");
+            Console.Write("Type url of image you want to convert to ascii: ");
             string picurl = Console.ReadLine();
             string _remoteImageUrl = picurl;
             Bitmap image = GetBitmapFromUrl(_remoteImageUrl);
