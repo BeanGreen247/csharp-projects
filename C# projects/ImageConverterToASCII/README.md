@@ -17,6 +17,6 @@ Like this one.
 I recomment to pick the white color scheme like shown, for better results.
 
 Step one open. You are asked to enter the link to the image.
-<img src="Images/ita_app1.png"
+<img src="Images/"
      alt="App openned."/>
 
